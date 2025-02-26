@@ -1,0 +1,4 @@
+GOBUSTER - USED FOR BRUTE FORCING  OF WEBSITE TO GET HIDDEN WEB PAGES AND DIRECTORIES
+FOR EXAMPLE - GOBUSTER -U HTTPS:/FAKEBANK.THM -W WORDLIST.TXT DIR
+In the command above, -u is used to state the website we're scanning, -w takes a list of words to iterate through to find hidden pages.
+

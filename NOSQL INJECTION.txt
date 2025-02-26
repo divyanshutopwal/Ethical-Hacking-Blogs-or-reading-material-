@@ -1,0 +1,15 @@
+NOSQL INJECTION 
+
+WEBSITE APPEARS AND A ZIP FILE THAT CONTAINS 2 HTML FILES AND 2 JSON FILES
+
+LOGIN PAGE OCCURS
+
+USERNAME IS INSIDE A SERVER JSON FILE
+
+PASSWORD TO BYPASS IT WE USE GITHUB DIRECTORY PAYLOAD for NOSQLINJECTION WHERE WE USED 
+{"$ne": null} in bypassing the login page 
+
+basic authentication bypass using not equal ($ne) or greater ($gt).
+
+after inspecting the admin page after by passing a token is generated in post request page after going to the token in the storage in session storage that particular token is the flag which is in sha256.
+
